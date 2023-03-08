@@ -1,0 +1,212 @@
+{
+  "extensionName": {
+    "message": "Copycat"
+  },
+  "extensionDescription": {
+    "message": "Copy content from web powerful than ever before."
+  },
+  "extensionActionTitle": {
+    "message": "Copycat Options"
+  },
+  "commandTabLinkAsPlainText": {
+    "message": "Tab link → Plain text"
+  },
+  "commandTabLinkAsRichText": {
+    "message": "Tab link → Rich text"
+  },
+  "commandTabLinkAsHTML": {
+    "message": "Tab link → HTML"
+  },
+  "commandTabLinkAsMarkdown": {
+    "message": "Tab link → Markdown"
+  },
+  "commandTabLinkAsOrgMode": {
+    "message": "Tab link → Org-Mode"
+  },
+  "commandTabLinkAsAsciiDoc": {
+    "message": "Tab link → AsciiDoc"
+  },
+  "commandTabLinkAsBBCode": {
+    "message": "Tab link → BBCode"
+  },
+  "commandFrameLinkAsPlainText": {
+    "message": "Frame link → Plain text"
+  },
+  "commandFrameLinkAsRichText": {
+    "message": "Frame link → Rich text"
+  },
+  "commandFrameLinkAsHTML": {
+    "message": "Frame link → HTML"
+  },
+  "commandFrameLinkAsMarkdown": {
+    "message": "Frame link → Markdown"
+  },
+  "commandFrameLinkAsOrgMode": {
+    "message": "Frame link → Org-Mode"
+  },
+  "commandFrameLinkAsAsciiDoc": {
+    "message": "Frame link → AsciiDoc"
+  },
+  "commandFrameLinkAsBBCode": {
+    "message": "Frame link → BBCode"
+  },
+  "commandLinkText": {
+    "message": "Link text"
+  },
+  "commandLinkAsPlainText": {
+    "message": "Link → Plain text"
+  },
+  "commandLinkAsRichText": {
+    "message": "Link → Rich text"
+  },
+  "commandLinkAsHTML": {
+    "message": "Link → HTML"
+  },
+  "commandLinkAsMarkdown": {
+    "message": "Link → Markdown"
+  },
+  "commandLinkAsOrgMode": {
+    "message": "Link → Org-Mode"
+  },
+  "commandLinkAsAsciiDoc": {
+    "message": "Link → AsciiDoc"
+  },
+  "commandLinkAsBBCode": {
+    "message": "Link → BBCode"
+  },
+  "commandSelectionAsPlainText": {
+    "message": "Selection → Plain text"
+  },
+  "commandSelectionAsConcatenatedPlainText": {
+    "message": "Selection → Concatenated plain text"
+  },
+  "commandSelectionAsJSON": {
+    "message": "Selection → JSON"
+  },
+  "commandSelectionAsMarkdown": {
+    "message": "Selection → Markdown"
+  },
+  "commandSelectionAsHTML": {
+    "message": "Selection → HTML"
+  },
+  "commandSelectionAsHTMLWithoutAttributes": {
+    "message": "Selection → HTML without attributes"
+  },
+  "commandSelectionAsCleanHTML": {
+    "message": "Selection → User-defined clean HTML"
+  },
+  "commandSelectionAsBBCode": {
+    "message": "Selection → BBCode"
+  },
+  "commandImageAsHTML": {
+    "message": "Image → HTML"
+  },
+  "commandImageAsMarkdown": {
+    "message": "Image → Markdown"
+  },
+  "commandImageAsBBCode": {
+    "message": "Image → BBCode"
+  },
+  "commandImageAsDataURL": {
+    "message": "Image → Data URL"
+  },
+  "commandAudioAsHTML": {
+    "message": "Audio → HTML"
+  },
+  "commandVideoAsHTML": {
+    "message": "Video → HTML"
+  },
+  "headingConfig": {
+    "message": "Config"
+  },
+  "headingURLConfig": {
+    "message": "URL Config"
+  },
+  "labelURLFormat": {
+    "message": "URL Format"
+  },
+  "selectOriginalURL": {
+    "message": "Leave URLs as they are"
+  },
+  "selectAbsoluteURL": {
+    "message": "Use absolute URLs where possible"
+  },
+  "selectRelativeURL": {
+    "message": "Use relative URLs where possible"
+  },
+  "selectRootRelativeURL": {
+    "message": "Use root-relative URLs where possible"
+  },
+  "labelURLEncoding": {
+    "message": "URL Encoding"
+  },
+  "selectEncodeURL": {
+    "message": "Always encode URLs"
+  },
+  "selectDecodeURL": {
+    "message": "Always decode URLs"
+  },
+  "headingMarkdownConfig": {
+    "message": "Markdown Config"
+  },
+  "labelMarkdownEmphasis": {
+    "message": "Emphasis"
+  },
+  "labelMarkdownStrong": {
+    "message": "Strong"
+  },
+  "labelMarkdownBulletUnordered": {
+    "message": "Bullets of items in unordered lists"
+  },
+  "labelMarkdownBulletOrdered": {
+    "message": "Bullets of items in ordered lists"
+  },
+  "labelMarkdownIndention": {
+    "message": "Indention the content of list items"
+  },
+  "labelMarkdownThematicBreak": {
+    "message": "Thematic breaks"
+  },
+  "labelMarkdownFence": {
+    "message": "Fenced code"
+  },
+  "headingHTMLConfig": {
+    "message": "HTML Config"
+  },
+  "headingCleanHTMLAllowlist": {
+    "message": "Allowlist for Clean HTML"
+  },
+  "buttonCreateItem": {
+    "message": "Create Item"
+  },
+  "labelElements": {
+    "message": "HTML element names separated by \",\""
+  },
+  "labelAttributes": {
+    "message": "HTML attribute names separated by \",\""
+  },
+  "headingMenu": {
+    "message": "Menu"
+  },
+  "menuContextPage": {
+    "message": "Tab"
+  },
+  "menuContextFrame": {
+    "message": "Frame"
+  },
+  "menuContextLink": {
+    "message": "Link"
+  },
+  "menuContextSelection": {
+    "message": "Selection"
+  },
+  "menuContextImage": {
+    "message": "Image"
+  },
+  "menuContextVideo": {
+    "message": "Video"
+  },
+  "menuContextAudio": {
+    "message": "Audio"
+  }
+}

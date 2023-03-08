@@ -1,0 +1,29 @@
+{
+  "name": "chrome-extensions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@powerfulyang/lint": "latest",
+    "@types/chrome": "0.0.220",
+    "dotenv": "latest",
+    "html-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "swc-loader": "latest",
+    "typescript": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "webpack-dev-server": "latest",
+    "webpack-merge": "latest"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
