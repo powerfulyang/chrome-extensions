@@ -1,18 +1,20 @@
-import { queryClient } from '@/utils';
 import { QueryClientProvider } from '@tanstack/react-query';
-import React from 'react';
+import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import browser from 'webextension-polyfill';
+import { queryClient } from '@/utils';
+import { VirtualTable } from '@/components/VirtualTable';
+import './styles/base.scss';
 
 browser.tabs.query({ active: true, currentWindow: true }).then(() => {
   const root = document.getElementById('options');
   if (root) {
     createRoot(root).render(
-      <React.StrictMode>
+      <StrictMode>
         <QueryClientProvider client={queryClient}>
-          <div>Options</div>
+          <VirtualTable />
         </QueryClientProvider>
-      </React.StrictMode>,
+      </StrictMode>,
     );
   }
 });

@@ -1,5 +1,3 @@
-# chrome-extensions
+# Template
 
-## html2md
-
-Using shortcut `Ctrl+Alt` or `Command+Option` to convert selected html to markdown.
+A template for creating a new Chrome extension.
