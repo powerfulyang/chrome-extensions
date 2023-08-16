@@ -3,7 +3,7 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import browser from 'webextension-polyfill';
 import { queryClient } from '@/utils';
-import { VirtualTable } from '@/components/VirtualTable';
+import { AppTable } from './components/table';
 import './styles/base.scss';
 
 browser.tabs.query({ active: true, currentWindow: true }).then(() => {
@@ -12,7 +12,7 @@ browser.tabs.query({ active: true, currentWindow: true }).then(() => {
     createRoot(root).render(
       <StrictMode>
         <QueryClientProvider client={queryClient}>
-          <VirtualTable />
+          <AppTable />
         </QueryClientProvider>
       </StrictMode>,
     );
